@@ -6,12 +6,6 @@ MňamPlán je jednoduchá responzivní React aplikace pro správu receptů a gen
 
 Projekt vznikl jako **experiment s tvorbou aplikace za pomoci AI**. Cílem bylo ověřit, jak daleko se dá dostat při návrhu a tvorbě malé webové aplikace s pomocí AI. Aplikaci vytvořil **Tomáš Ulman**.
 
-## GitHub description
-
-```text
-Experiment s tvorbou aplikace za pomoci AI: moderní správce receptů a generátor jídelníčku postavený na Reactu, Vite a Tailwind CSS.
-```
-
 ## Stack
 
 - React + Vite
